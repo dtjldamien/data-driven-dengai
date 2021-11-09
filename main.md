@@ -6,7 +6,7 @@ Members:
 
 # Leaderboard screenshots
 ![Approach 2 Submission](./scores/approach_2.png?raw=true "Approach 2")
-![Approach 3 Submission](./scores/approach_3.png?raw=true "Approach 2")
+![Approach 3 Submission](./scores/approach_3.png?raw=true "Approach 3")
 
 # Sequence to view
 1. approach_2.ipynb
